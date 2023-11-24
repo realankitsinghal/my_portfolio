@@ -1,4 +1,4 @@
-## Home Page :-
+## My Portfolio:-
 ![Home Page](https://github.com/realankitsinghal/my_portfolio/blob/main/1.png)
 
 ![About Page](https://github.com/realankitsinghal/my_portfolio/blob/main/2.png)
